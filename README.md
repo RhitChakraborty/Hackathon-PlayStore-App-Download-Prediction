@@ -18,18 +18,18 @@ Sample Submission - Acceptable submission format
 
 # Attributes Description:
 
-Offered_By : The publisher/Organization/Company that develops the application
-Category : The category/Genre of the application
-Rating: The total ratings received from consumers
-Reviews: The total reviews received from consumers
-Size: The size of the application with unit
-Price: The total price of the application or cost of the in-app purchases
-Content_Rating: The content rating for the application
-Last_Updated_On: The date at which the application was last updated
-Release_Version: The version of the application that is currently being served
-OS_Version_Required: The minimum Android OS version required to run the application
-Downloads: The approximated range of downloads for the application
+Offered_By : The publisher/Organization/Company that develops the application     
+Category : The category/Genre of the application      
+Rating: The total ratings received from consumers     
+Reviews: The total reviews received from consumers      
+Size: The size of the application with unit     
+Price: The total price of the application or cost of the in-app purchases     
+Content_Rating: The content rating for the application      
+Last_Updated_On: The date at which the application was last updated     
+Release_Version: The version of the application that is currently being served      
+OS_Version_Required: The minimum Android OS version required to run the application     
+Downloads: The approximated range of downloads for the application      
 
 
 
-Ranked 21
+## Ranked 21
